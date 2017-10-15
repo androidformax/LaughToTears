@@ -1,0 +1,4 @@
+<resources>
+    <integer name="com_vk_sdk_AppId">6179370</integer>
+    <string name="app_name">Смейся до слёз :D</string>
+</resources>
